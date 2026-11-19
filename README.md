@@ -31,8 +31,3 @@ Jalankan `enginedork(Decrypt).py` dan pilih/gunakan query sesuai kebutuhan.
 ## Disklaimer
 
 Hanya untuk pengujian pada aset sendiri atau yang berizin. Google Dorking pada sistem orang lain tanpa izin melanggar hukum.
-
-
----
-
-<p align="center"><sub>Made with a little help from <b>Hermes</b> · dev colab with hermes</sub></p>
