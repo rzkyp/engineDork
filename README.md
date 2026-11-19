@@ -1,16 +1,20 @@
 <p align="center">
-  <img src="assets/logo.png" alt="engineDork" width="240"/>
+  <img src="assets/banner.png" alt="engineDork" style="width:100%;max-height:260px;object-fit:cover"/>
+</p>
+
+<p align="center">
+  <img src="assets/logo.png" alt="engineDork logo" width="110"/>
 </p>
 
 <h1 align="center">engineDork</h1>
 
+<p align="center">Temukan exposure sensitif lewat operator pencarian</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB" alt=""/>
   <img src="https://img.shields.io/badge/OSINT-blueviolet" alt=""/>
-  <img src="https://img.shields.io/badge/security-critical-f85149" alt=""/>
+  <img src="https://img.shields.io/badge/MIT-2ea043" alt=""/>
 </p>
-
-<p align="center">Google Dorking engine — temukan exposure sensitif lewat operator pencarian.</p>
 
 ---
 
