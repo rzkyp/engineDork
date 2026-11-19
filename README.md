@@ -1,14 +1,15 @@
-<p align="center">
-  <img src="assets/banner.png" alt="engineDork" style="width:100%;max-height:260px;object-fit:cover"/>
-</p>
+<pre>
+                  _            _____             _    
+                 (_)          |  __ \           | |   
+  ___ _ __   __ _ _ _ __   ___| |  | | ___  _ __| | __
+ / _ \ &#x27;_ \ / _` | | &#x27;_ \ / _ \ |  | |/ _ \| &#x27;__| |/ /
+|  __/ | | | (_| | | | | |  __/ |__| | (_) | |  |   &lt; 
+ \___|_| |_|\__, |_|_| |_|\___|_____/ \___/|_|  |_|\_\
+             __/ |                                    
+            |___/                                     
+</pre>
 
-<p align="center">
-  <img src="assets/logo.png" alt="engineDork logo" width="110"/>
-</p>
-
-<h1 align="center">engineDork</h1>
-
-<p align="center">Temukan exposure sensitif lewat operator pencarian</p>
+<p align="center">Google Dorking engine · OSINT recon</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB" alt=""/>
