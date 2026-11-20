@@ -12,6 +12,9 @@
 <p align="center">Google Dorking engine · OSINT recon</p>
 
 <p align="center">
+  <img src="docs/logo.png" alt="ZEXO — ZeroDev" width="110">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB" alt=""/>
   <img src="https://img.shields.io/badge/OSINT-blueviolet" alt=""/>
   <img src="https://img.shields.io/badge/MIT-2ea043" alt=""/>
